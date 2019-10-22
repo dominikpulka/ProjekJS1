@@ -1,0 +1,40 @@
+body{
+    background-color: darkblue;
+    margin: 0 auto;
+}
+
+
+button{
+    background-color: green;
+    border-radius: 28px;
+    border: 1px solid green;
+    display: inline-block;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 24px 14px;
+    text-decoration: none;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+h1{
+    margin-left: 220px;
+    font-size: 29px;
+    color: yellow;
+}
+
+button:hover{
+    background-color: pink;
+}
+
+button:active{
+    position: relative;
+    top: 1px;
+}
+
+#box{
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    margin-top: 60px;
+}
