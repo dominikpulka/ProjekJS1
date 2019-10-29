@@ -5,14 +5,14 @@ document.querySelector("#ch1Play").addEventListener("click", playCh1)
 const ch1 = []
 let ch1Start = Date.now()
 const sounds = {
-    KeyA: '#boom',
-    KeyS: '#clap',
-    KeyD: '#hihat',
-    KeyF: '#kick',
-    KeyG: '#snare',
-    KeyH: '#tink',
-    KeyJ: '#openhat',
-    KeyK: '#ride',
+    KeyQ: '#boom',
+    KeyW: '#clap',
+    KeyE: '#hihat',
+    KeyR: '#kick',
+    KeyA: '#snare',
+    KeyS: '#tink',
+    KeyD: '#openhat',
+    KeyF: '#ride',
 }
 
 function playCh1(){
