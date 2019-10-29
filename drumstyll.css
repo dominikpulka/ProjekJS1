@@ -1,22 +1,21 @@
 body{
-    background-color: darkblue;
+    background-color: rgb(75, 67, 69);
     margin: 0 auto;
 }
 
 
 button{
-    background-color: green;
+    background-color: rgba(88, 70, 19, 0.63);
     border-radius: 28px;
     border: 1px solid green;
     display: inline-block;
-    color: red;
+    color: rgb(173, 109, 13);
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     padding: 24px 14px;
     text-decoration: none;
     margin-left: 140px;
     margin-top: 30px;
-}
 h1{
     margin-left: 220px;
     font-size: 29px;
